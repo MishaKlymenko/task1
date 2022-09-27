@@ -50,4 +50,4 @@ let myVariable = 10;
 consle.log(myVariable);
 ```
 
-[1]: (https://google.com)
+[1]:(https://google.com)

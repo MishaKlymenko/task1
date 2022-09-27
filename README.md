@@ -63,5 +63,10 @@ consle.log(myVariable);
 > Вчіться якщо не хочете бути як русня <br>
 > ось так
 
+## ToDo list
+
+- [x] Todo 1
+- [] Todo 2
+- [x] Todo 3
 
 [1]: https://google.com

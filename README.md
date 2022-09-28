@@ -66,7 +66,7 @@ consle.log(myVariable);
 ## ToDo list
 
 - [x] Todo 1
-- [] Todo 2
+- Todo 2
 - [x] Todo 3
 
 [1]: https://google.com
